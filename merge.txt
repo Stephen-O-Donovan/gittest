@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 chage
 append
+=======
+third
+>>>>>>> tbranch
